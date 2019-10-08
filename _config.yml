@@ -79,7 +79,13 @@ authors:
     bio:            "A bibliophile ambivert with great passion for chicken nuggets. Find me blabbering on stage or jamming to Lana Del Rey."
     email:          masoomi.saxena99@gmail.com
     twitter:        https://www.instagram.com/masyoyummy/
-
+    
+  shubhani:
+    name:           Shubhani Mulay
+    avatar:         "assets/images/authors/shubhani.jpg"
+    bio:            " .A newbie writer and a budding engineer!!"
+    email:          shubhani.mulay25@gmail.com
+    twitter:        https://www.instagram.com/mulay_shubhani25/
 
 # Defaults
 defaults:
